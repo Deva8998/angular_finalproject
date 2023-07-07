@@ -1,0 +1,231 @@
+{
+  "users": [
+    {
+      "email": "anil@gmail.com",
+      "password": "password",
+      "firstname": "Anil",
+      "lastname": "Kumar",
+      "id": 1,
+      "type": "admin"
+    },
+    {
+      "email": "anu@gmail.com",
+      "password": "password",
+      "firstname": "Anil",
+      "lastname": "Kumar",
+      "id": 1,
+      "type": "user"
+    },
+    {
+      "email": "priya@gmail.com",
+      "username": "priya",
+      "password": "123456",
+      "type": "user",
+      "id": 2
+    },
+    {
+      "email": "ram@gmail.com",
+      "username": "ramuji",
+      "password": "123456",
+      "type": "admin",
+      "id": 3
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "image": "f1exhaust.jpg",
+      "type": "Exhaust Systems"
+    },
+    {
+      "id": 2,
+      "image": "twinturbo.jpg",
+      "type": "Twin-Turbos"
+    },
+    {
+      "id": 3,
+      "image": "supercharger.jpg",
+      "type": "SuperCharger"
+    },
+    {
+      "id": 4,
+      "image": "widebody.jpg",
+      "type": "Widebody Kits"
+    }
+  ],
+  "products": [
+    {
+      "name": "Electronic",
+      "description": "Gintani F1 Package makes your car scream like an 90's F1 car and along with that you can get bigger flames and over 100+ HP upgrade.",
+      "image": "imge1.jpg",
+      "id": 1,
+      "type": "Electronic product"
+    },
+    {
+      "name": "Ryft Exhaust System",
+      "description": "Ryft is an custom brand make custom exhaust for your cars",
+      "image": "ryftexhaust.jpg",
+      "id": 2,
+      "type": "Electronic product"
+    },
+    {
+      "name": "Fi Exhaust",
+      "description": "Fi Exhausts are High pitched and comes with an valve technology",
+      "image": "fiexhaust.jpg",
+      "id": 3,
+      "type": "Electronic product"
+    },
+    {
+      "name": "VF Huracan Supercharger",
+      "description": "Gives your huracan a power boost over 100+hp and listen to the whining of the supercharger",
+      "image": "huracansupercharger.jpg",
+      "id": 4,
+      "type": "Electronic product"
+    },
+    {
+      "name": "Hector Perfomance Supercharger",
+      "description": "Suitable for Mustangs and Chevys",
+      "image": "mustangsupercharger.jpg",
+      "id": 5,
+      "type": "Electronic product"
+    },
+    {
+      "name": "Alpha Superchargers",
+      "description": "Suitable for V8's and V10s ",
+      "image": "mustangsupercharger2.jpg",
+      "id": 6,
+      "type": "Grocery product"
+    },
+    {
+      "name": "SheepyRace Twin-Turbo Kit(Audi R8)",
+      "description": "Boost up your R8's over a 1000HP ",
+      "image": "sheepyraceauditt.jpg",
+      "id": 7,
+      "type": "Grocery product"
+    },
+    {
+      "name": "SheepyRace Twin_Turbo Kit (Huracan)",
+      "description": "Boost up Huracans over 1000HP+ Monsters",
+      "image": "sheepyracett.jpg",
+      "id": 8,
+      "type": "Grocery product"
+    },
+    {
+      "name": "SV-R Aventador Widebody Kit",
+      "description": "Custom Carbon Fibre Widebody to make your aventador more aggressive and Mesmerizing ",
+      "image": "svraventador.jpg",
+      "id": 9,
+      "type": "Grocery product"
+    },
+    {
+      "name": "Gintani Twin-Turbo Kit (Huracan V10's )",
+      "description": "Gintani TT Kit make your huracan terrorize the roads and leave dust behind",
+      "image": "gintanitt.jpg",
+      "id": 10,
+      "type": "Grocery product"
+    },
+    {
+      "name": "UnderGround Racing Twin-Turbo Kit (Aventadors)",
+      "description": "World's Top perfomance brand UGR creates the first ever aventador V12 twin-turbo, and makes the aventadors more unique and fast",
+      "image": "ugraventadortt.jpg",
+      "id": 11,
+      "type": "Fashion product"
+    },
+    {
+      "name": "UnderGround Racing Twin-Turbo (Huracan)",
+      "description": "UGR's top rated tt kit huracans make hypercars run for their money ",
+      "image": "ugrhuracantt.jpg",
+      "id": 12,
+      "type": "Fashion product"
+    },
+    {
+      "name": "Liberty Walk Widebody Kit (R35)",
+      "description": "LBWK for the Nissan GT-R 35s",
+      "image": "widebody.jpg",
+      "id": 13,
+      "type": "Fashion product"
+    },
+    {
+      "name": "Blower Supercharger",
+      "description": "Blower type superchargers for all the Mustangs and Chevys(Including Classics)",
+      "image": "blowersupercharger.jpg",
+      "id": 14,
+      "type": "Fashion product"
+    },
+    {
+      "name": "Liberty Walk Widebody Kit (Huracan)",
+      "description": "LBWK for all the Huracans",
+      "image": "lbwhuracan.jpg",
+      "id": 15,
+      "type": "Medicals product"
+    },
+    {
+      "name": "Liberty Walk Widebody Kit (Aventador)",
+      "description": "LBWK for all aventadors ",
+      "image": "lbwaventador.jpg",
+      "id": 16,
+      "type": "Medicals product"
+    },
+    {
+      "name": "Custom Fabrication ",
+      "description": "Custom Fabrication for all kind of cars and Race car stuffs",
+      "image": "fabrication.jpg",
+      "id": 17,
+      "type": "Medicals product"
+    },
+    {
+      "id": 18
+    },
+    {
+      "name": "sjkj",
+      "description": "kjaskjh",
+      "image": "kjshkj",
+      "id": 19
+    },
+    {
+      "id": 20
+    }
+  ],
+  "reviews": [
+    {
+      "id": 3632,
+      "name": "Damon",
+      "email": "damon@dde.com",
+      "type": "Gintani F1 Package",
+      "message": "The SVJ is literally screaming lika an F1 car, Loving it"
+    },
+    {
+      "id": 1427,
+      "name": "Ajiram",
+      "email": "ajiram@gmail.com",
+      "type": "Twin-Turbo kits",
+      "message": "Absolute crazy power up...and also bigger flames"
+    },
+    {
+      "id": "1",
+      "name": "navee",
+      "email": "navee@gmail.com",
+      "type": "Merch",
+      "message": "Loving the merch, cool af"
+    }
+  ],
+  "contactus": [
+    {
+      "id": 96655,
+      "fname": "Ramkumar",
+      "lname": "Ravi",
+      "email": "arracing@gmail.com",
+      "message": "Pimp up your ride with AR Racing"
+    }
+  ],
+  "fourm": [
+    {
+      "type": "Exhaust System",
+      "message": "Literally screaming good. Looking forward to work again."
+    },
+    {
+      "type": "Widebody kits",
+      "message": "This was an excellent project , The carbon fibre quality is really good."
+    }
+  ]
+}

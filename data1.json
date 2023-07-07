@@ -1,0 +1,220 @@
+{
+  "users": [
+    {
+      "email": "anil@gmail.com",
+      "password": "password",
+      "firstname": "Anil",
+      "lastname": "Kumar",
+      "id": 1,
+      "type": "admin"
+    },
+    {
+      "email": "anu@gmail.com",
+      "password": "password",
+      "firstname": "Anil",
+      "lastname": "Kumar",
+      "id": 1,
+      "type": "user"
+    },
+    {
+      "email": "priya@gmail.com",
+      "username": "priya",
+      "password": "123456",
+      "type": "user",
+      "id": 2
+    },
+    {
+      "email": "ram@gmail.com",
+      "username": "ramuji",
+      "password": "123456",
+      "type": "admin",
+      "id": 3
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "image": "pimg1.jpg",
+      "type": "Exhaust Systems"
+    },
+    {
+      "id": 2,
+      "image": "gimg2.jpg",
+      "type": "Twin-Turbos"
+    },
+    {
+      "id": 3,
+      "image": "fimage1.jpg",
+      "type": "SuperCharger"
+    },
+    {
+      "id": 4,
+      "image": "mdimg1.jpg",
+      "type": "Widebody Kits"
+    }
+  ],
+  "products": [
+    {
+      "name": "Mother Boad",
+      "description": "Electronics is a scientific and engineering discipline that studies and applies the principles of physics to design, create, and operate devices that manipulate electrons and other charged particles.",
+      "image": "imge1.jpg",
+      "id": 1,
+      "type": "Electronic product"
+    },
+    {
+      "name": "Tablet ",
+      "description": " The electronics industry also encompasses other sectors that rely on electronic devices and systems",
+      "image": "img2.jfif",
+      "id": 2,
+      "type": "Electronic product"
+    },
+    {
+      "name": "circuit",
+      "description": "Fi Exhausts are High pitched and comes with an valve technology",
+      "image": "img3.jfif",
+      "id": 3,
+      "type": "Electronic product"
+    },
+    {
+      "name": "Head Phone",
+      "description": "to hear music",
+      "image": "hed.jpg",
+      "id": 4,
+      "type": "Electronic product"
+    },
+    {
+      "name": "phone",
+      "description": "to contact with other",
+      "image": "phnimg.jpg",
+      "id": 5,
+      "type": "Electronic product"
+    },
+    {
+      "name": "dairy product",
+      "description": "to get energy",
+      "image": "dimg.jfif",
+      "id": 6,
+      "type": "Grocery product"
+    },
+    {
+      "name": "meat",
+      "description": "to get vitamin",
+      "image": "meat.jfif",
+      "id": 7,
+      "type": "Grocery product"
+    },
+    {
+      "name": "oil",
+      "description": "to fry some food",
+      "image": "oil image.jfif",
+      "id": 8,
+      "type": "Grocery product"
+    },
+    {
+      "name": "Nuts",
+      "description": "to boost our stamina ",
+      "image": "nut.jpg",
+      "id": 9,
+      "type": "Grocery product"
+    },
+    {
+      "name": "Dry Fruits",
+      "description": "to build musles",
+      "image": "dryfrts.jfif",
+      "id": 10,
+      "type": "Grocery product"
+    },
+    {
+      "name": "Dress",
+      "description": "Traditional wear",
+      "image": "dres.jpg",
+      "id": 11,
+      "type": "Fashion product"
+    },
+    {
+      "name": "perfume",
+      "description": "feel comfort ",
+      "image": "perfume.jpg",
+      "id": 12,
+      "type": "Fashion product"
+    },
+    {
+      "name": "shoe",
+      "description": "wear for fashion",
+      "image": "shoes.jpg",
+      "id": 13,
+      "type": "Fashion product"
+    },
+    {
+      "name": "spex",
+      "description": "to see clearly",
+      "image": "spex.jpg",
+      "id": 14,
+      "type": "Fashion product"
+    },
+    {
+      "name": "tablet",
+      "description": "get well from pain",
+      "image": "tablets.jpg",
+      "id": 15,
+      "type": "Medicals product"
+    },
+    {
+      "name": "needle",
+      "description": "get well come pain ",
+      "image": "needle.jpg",
+      "id": 16,
+      "type": "Medicals product"
+    },
+    {
+      "name": "face cream ",
+      "description": "to be glow",
+      "image": "makeprd.jpg",
+      "id": 17,
+      "type": "Medicals product"
+    }
+    
+  ],
+  "reviews": [
+    {
+      "id": 3632,
+      "name": "Damon",
+      "email": "damon@dde.com",
+      "type": "Medicals product",
+      "message": "The SVJ is literally screaming lika an F1 car, Loving it"
+    },
+    {
+      "id": 1427,
+      "name": "Ajiram",
+      "email": "ajiram@gmail.com",
+      "type": "Medicals product",
+      "message": "to be glow"
+    },
+    {
+      "id": "1",
+      "name": "navee",
+      "email": "navee@gmail.com",
+      "type": "Merch",
+      "message": "Loving the merch, cool af"
+    }
+  ],
+  "contactus": [
+    {
+      "id": 96655,
+      "fname": "Ramkumar",
+      "lname": "Ravi",
+      "email": "arracing@gmail.com",
+      "message": "Pimp up your ride with AR Racing"
+    }
+  ],
+  "fourm": [
+    {
+      "type": "Exhaust System",
+      "message": "Literally screaming good. Looking forward to work again."
+    },
+    {
+      "type": "Widebody kits",
+      "message": "This was an excellent project , The carbon fibre quality is really good."
+    }
+  ]
+}
